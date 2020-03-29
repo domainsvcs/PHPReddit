@@ -2,8 +2,6 @@
 
 // Rename this file to config.php, then fill in the blank values.
 
-namespace Phapper;
-
 class PhapperConfig {
     public static $username     = '';
     public static $password     = '';
